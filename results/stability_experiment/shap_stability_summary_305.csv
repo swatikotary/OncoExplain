@@ -1,0 +1,8 @@
+Metric,Value
+Average Spearman Correlation,0.9483772092448398
+Minimum Spearman Correlation,0.8874304783092326
+Maximum Spearman Correlation,0.9848720800889877
+Average Top-10 Jaccard,1.0
+Minimum Top-10 Jaccard,1.0
+Maximum Top-10 Jaccard,1.0
+Average SHAP Direction Consistency,0.9533333333333334

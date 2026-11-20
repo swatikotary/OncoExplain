@@ -1,0 +1,12 @@
+Metric,Value
+Number of repeated training runs,10.0
+Number of fixed test records,114.0
+Average prediction agreement (%),99.3859649122807
+Records with perfect prediction agreement,111.0
+Records with prediction disagreement,3.0
+Average global SHAP Spearman,0.9483772092448398
+Minimum global SHAP Spearman,0.8874304783092326
+Average global Top-10 Jaccard,1.0
+Average SHAP direction consistency (%),95.33333333333334
+Average individual-record Spearman,0.955899641577061
+Average individual-record Top-5 Jaccard,0.817275132275132

@@ -1,0 +1,5 @@
+Metric,Value
+Average Prediction Agreement,99.3859649122807
+Perfect Agreement Records,111.0
+Records With Disagreement,3.0
+Total Test Records,114.0
